@@ -20,8 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Rawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawalhassan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawalhassan&layout=compact&theme=radical)  
+![Rawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawal3403&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawal3403&layout=compact&theme=radical)  
 
 ---
 
